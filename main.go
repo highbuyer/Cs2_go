@@ -3,6 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
+	"github.com/highbuyer/Cs2_go"
+	"github.com/highbuyer/Cs2_go/pkg"
 )
 
 func main() {
