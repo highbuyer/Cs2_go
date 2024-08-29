@@ -1,9 +1,12 @@
 package main
 
 import (
-	"https://github.com/highbuyer/Cs2_go/pkg"
 	"log"
 	"net/http"
+	"go build"
+	"https://github.com/highbuyer/Cs2_go"
+	"https://github.com/highbuyer/Cs2_go/pkg"
+	
 )
 
 func main() {
